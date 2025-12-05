@@ -54,23 +54,23 @@ including:
 - Testing, deployment, and client communication
 
  **Tech Stack:**
-- **React 18** – Dynamic UI with reusable components  
+- **React** – Dynamic UI with reusable components  
 - **HTML5, CSS3, ES6 JavaScript** – Interface structure, styling, interaction  
 - **Node.js + Express.js** – Backend APIs and routing  
-- **Java 17** – Business logic and transactional services  
-- **MySQL 8 (SQL)** – Structured data like users, orders, transactions  
-- **MongoDB 6 (NoSQL)** – Product details, reviews, unstructured data  
-- **Next.js 13 (SSR)** – Server-side rendering for SEO and faster initial load  
+- **Java** – Business logic and transactional services  
+- **MySQL(SQL)** – Structured data like users, orders, transactions  
+- **MongoDB(NoSQL)** – Product details, reviews, unstructured data  
+- **Next.js(SSR)** – Server-side rendering for SEO and faster initial load  
 - **Lazy Loading & Code Splitting** – Faster runtime performance  
 - **HTTPS + JWT Authentication** – Data security and protected endpoints
 
 **Core Features:** 
 Some important features implemented include: 
-● Fully responsive e-commerce interface with mobile-first layouts 
-● Dynamic product listing pages with filtering, paging, and sorting 
-● Secure user login, wishlist, cart, orders, and transaction management 
-● SEO-optimized structure with SSR, meta tags, and structured data 
-● Performance improvements like compressed assets, lazy loading, and optimized 
+- Fully responsive e-commerce interface with mobile-first layouts 
+= Dynamic product listing pages with filtering, paging, and sorting 
+- Secure user login, wishlist, cart, orders, and transaction management 
+- SEO-optimized structure with SSR, meta tags, and structured data 
+- Performance improvements like compressed assets, lazy loading, and optimized 
 database queries.
 
 **Main Challenge:** 
@@ -86,7 +86,7 @@ React by default renders client-side, which can hurt SEO. At the same time, e-co
 I approached the challenge with a combination of frontend, backend, and optimization 
 strategies: 
 ### 1️⃣ Mobile-First UI Design
-- Built clean, scalable components in **React**  
+- Built clean, scalable components 
 - Ensured layouts adapt smoothly across screen sizes  
 - Improved visual hierarchy to aid faster decision-making  
 
@@ -97,7 +97,7 @@ strategies:
 - Combined **SQL + NoSQL** to manage structured and unstructured information efficiently  
 
 ### 3️⃣ SEO Optimization
-- Used **Next.js 13** for server-side rendering so pages load with full content on first paint  
+- Used **Next.js** for server-side rendering so pages load with full content on first paint  
 - Implemented structured metadata, readable URLs, and optimized content hierarchy  
 - Ensured good crawlability for search engines  
 
@@ -123,7 +123,7 @@ These improvements directly impacted customer engagement and business growth.
 
 **What I Learned:** 
 This project strengthened my capabilities in: 
-- **Combining React frontend** with Java and Node-based backend services  
+- **Combining React frontend** with Java and Node-based backend services
 - **Building scalable architecture** for real-world e-commerce applications  
 - **Applying SEO** to modern JavaScript frameworks using SSR  
 - **Balancing performance, security, and user experience** together  
