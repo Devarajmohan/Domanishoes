@@ -12,6 +12,9 @@ When the client approached me, they wanted to launch a competitive online footwe
 However, the challenge was that they were entering a market where users expect fast, 
 frictionless browsing and instant access to product information. 
 
+<img width="100%"  alt="d1-min" src="https://github.com/user-attachments/assets/38500595-70f7-46c5-87bc-70047f2f2395" />
+
+
 **The main problems identified were:** 
 ### 1️⃣ Slow Loading Pages
 - Pages were hurting user retention and causing customers to leave before fully exploring products.
