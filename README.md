@@ -38,7 +38,7 @@ The platform was built for:
 ✔ Secure transactions 
 ✔ Fast, frustration-free performance
 
-**My Role** 
+**My Role:** 
 I worked as the Fullstack Developer and was responsible for end-to-end project ownership, 
 including: 
 - Understanding business goals and user requirements 
@@ -49,7 +49,7 @@ including:
 - Implementing SEO and performance optimization 
 - Testing, deployment, and client communication
 
- **Tech Stack**
+ **Tech Stack:**
 - **React 18** – Dynamic UI with reusable components  
 - **HTML5, CSS3, ES6 JavaScript** – Interface structure, styling, interaction  
 - **Node.js + Express.js** – Backend APIs and routing  
@@ -60,7 +60,7 @@ including:
 - **Lazy Loading & Code Splitting** – Faster runtime performance  
 - **HTTPS + JWT Authentication** – Data security and protected endpoints
 
-**Core Features** 
+**Core Features:** 
 Some important features implemented include: 
 ● Fully responsive e-commerce interface with mobile-first layouts 
 ● Dynamic product listing pages with filtering, paging, and sorting 
@@ -69,7 +69,7 @@ Some important features implemented include:
 ● Performance improvements like compressed assets, lazy loading, and optimized 
 database queries.
 
-**Main Challenge** 
+**Main Challenge:** 
 The biggest challenge was achieving three things at the same time: 
 - **Fast performance**  
 - **Strong SEO** for competitive ranking  
@@ -78,7 +78,7 @@ The biggest challenge was achieving three things at the same time:
 React by default renders client-side, which can hurt SEO. At the same time, e-commerce platforms also require **speed, security, and high stability under load**.
 
 
-**How I Solved It** 
+**How I Solved It:** 
 I approached the challenge with a combination of frontend, backend, and optimization 
 strategies: 
 ### 1️⃣ Mobile-First UI Design
@@ -106,7 +106,7 @@ strategies:
 This combination resulted in smoother navigation, blazing-fast interaction, and significantly better search visibility.
 
 
-**Impact / Results**
+**Impact / Results:**
 The business results were measurable and positive: 
 - **Page load speed improved by over 40%**, reducing bounce rates  
 - **Significant increase in organic search traffic** due to stronger SEO  
@@ -117,7 +117,7 @@ The business results were measurable and positive:
 
 These improvements directly impacted customer engagement and business growth. 
 
-**What I Learned** 
+**What I Learned:** 
 This project strengthened my capabilities in: 
 - **Combining React frontend** with Java and Node-based backend services  
 - **Building scalable architecture** for real-world e-commerce applications  
