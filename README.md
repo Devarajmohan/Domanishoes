@@ -7,20 +7,23 @@ I developed a modern, secure, and high-performance e-commerce shoe platform with
 mobile-first design, SEO optimization, scalable backend, and improved loading speed to boost 
 visibility, customer engagement, and conversions. 
 
-**Problem** 
+**Problem:** 
 When the client approached me, they wanted to launch a competitive online footwear store. 
 However, the challenge was that they were entering a market where users expect fast, 
 frictionless browsing and instant access to product information. 
 
 **The main problems identified were:** 
-1⃣ Slow loading pages were hurting user retention and causing customers to leave before fully 
-exploring products. 
-2⃣ Weak SEO and poor crawlability meant the website was not ranking well on search 
-engines, resulting in low organic traffic. 
-3⃣ No scalable backend architecture, making it difficult to securely handle user accounts, 
-products, orders, reviews, and transactions. 
-4⃣ Inconsistent and unoptimized mobile experience, even though most fashion and footwear 
-purchases happen via mobile today. 
+### 1️⃣ Slow Loading Pages
+- Pages were hurting user retention and causing customers to leave before fully exploring products.
+
+### 2️⃣ Weak SEO
+- Poor crawlability meant the website was not ranking well on search engines, resulting in low organic traffic.
+
+### 3️⃣ No Scalable Backend Architecture
+- Difficult to securely handle user accounts, products, orders, reviews, and transactions.
+
+### 4️⃣ Inconsistent Mobile Experience
+- Even though most fashion and footwear purchases happen via mobile today, the experience was unoptimized.
 
 Target Users 
 The platform was built for: 
