@@ -53,16 +53,13 @@ including:
 - Implementing SEO and performance optimization 
 - Testing, deployment, and client communication
 
- **Tech Stack:**
-- **React** – Dynamic UI with reusable components  
+ **Tech Stack:** 
 - **HTML5, CSS3, ES6 JavaScript** – Interface structure, styling, interaction  
 - **Node.js + Express.js** – Backend APIs and routing  
 - **Java** – Business logic and transactional services  
 - **MySQL(SQL)** – Structured data like users, orders, transactions  
 - **MongoDB(NoSQL)** – Product details, reviews, unstructured data  
-- **Next.js(SSR)** – Server-side rendering for SEO and faster initial load  
-- **Lazy Loading & Code Splitting** – Faster runtime performance  
-- **HTTPS + JWT Authentication** – Data security and protected endpoints
+- **Lazy Loading** – Faster runtime performance 
 
 **Core Features:** 
 Some important features implemented include: 
