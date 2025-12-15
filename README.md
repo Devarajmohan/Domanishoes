@@ -2,6 +2,7 @@
 
 # Project Name: Domanishoes – E-commerce Platform for Branded Footwear 
 
+
 **One-Line Summary:**
 I developed a modern, secure, and high-performance e-commerce shoe platform with a 
 mobile-first design, SEO optimization, scalable backend, and improved loading speed to boost 
